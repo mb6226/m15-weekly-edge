@@ -123,13 +123,17 @@ A ZigZag leg is therefore **not treated as final while it is still forming**. Th
 
 This distinction is important for avoiding look-ahead bias in research and backtesting.
 
-## 13. 33.4 Break Toward 113
+## 13. 33.4 Touch, Pullback, and Continuation Toward 113
 
-When a ZigZag leg reaches its terminal area and attempts to break the **33.4** level, the reaction may continue toward **113**.
+After price moves upward and **touches the 33.4 Fibonacci level**, price may make a **pullback/reaction** before continuing toward the **113 Fibonacci level**.
 
-Price may produce a minor pullback/reaction between **33.4 and 113** before continuing toward 113.
+This pullback is a new minor corrective movement that can form within the broader move from 33.4 toward 113.
 
-Therefore, a reaction at 33.4 alone does **not** confirm completion of the ZigZag leg.
+The sequence is therefore:
+
+**33.4 touch → minor pullback/reaction → continuation toward 113**
+
+The pullback does not mean that the broader move has failed; it is part of the price-action development toward the next Fibonacci level.
 
 ## 14. Shark Pattern
 
